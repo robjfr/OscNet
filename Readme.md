@@ -1,3 +1,5 @@
+Copy of Compl Yue's project. https://github.com/complyue/OscBrain
+Want to play with this non-destructively
 # Oscillationary Brains
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/complyue/OscBrain)
